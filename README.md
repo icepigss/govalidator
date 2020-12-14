@@ -1,6 +1,6 @@
 # govalidator
 A simple validator that can customize error messages.
-E.g
+<br>E.g
 * you can use it to verify parameters and return error message in restful api.
 ### Example
 ```Golang
